@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">BW Endgame 2022</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="music_pref">Play Background Music</string>
+    <string name="music_summaryoff">Music will not play</string>
+    <string name="music_summaryon">Music will play</string>
+    <string name="missile_pref">Only One Missile At A Time</string>
+    <string name="missile_summaryoff">Off</string>
+    <string name="missile_summaryon">On</string>
+    <string name="depth_pref">Only One Depth Charge At A Time</string>
+    <string name="depth_summaryoff">Off</string>
+    <string name="depth_summaryon">On</string>
+    <string name="plane_numbers_pref">Airplane Numbers</string>
+    <string name="plane_numbers_summary">How many airplanes are on the screen?</string>
+    <string name="sub_numbers_pref">Submarine Numbers</string>
+    <string name="sub_numbers_summary">How many submarines are on the screen?</string>
+    <string name="sub_moving_pref">Submarines Moving Speed</string>
+    <string name="sub_moving_summary">How fast will the submarines move?</string>
+    <string name="plane_moving_pref">Airplanes Moving Speed</string>
+    <string name="plane_moving_summary">How fast will the airplanes move?</string>
+
+    <string name="information_title">Information</string>
+    <string name="information_message">Here is the information window</string>
+    <string name="information_ok">OK</string>
+
+    <string name="game_congratulations">Congratulations! A new high score! Play again?</string>
+    <string name="game_again">Better luck next time! Play again? (Score to beat: </string>
+
+
+    <string name="game_title">GAME OVER</string>
+    <string name="game_yes">YES</string>
+    <string name="game_no">NO</string>
+
+    <string name="game_score">Score:</string>
+    <string name="game_time">TIME:</string>
+
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

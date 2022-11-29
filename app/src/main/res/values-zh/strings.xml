@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">海空大戰</string>
+    <string name="title_activity_settings">遊戲設定</string>
+    <string name="music_pref">是否開啟音效</string>
+    <string name="music_summaryoff">音效關閉</string>
+    <string name="music_summaryon">音效開啟</string>
+    <string name="missile_pref">只能射一發子彈</string>
+    <string name="missile_summaryoff">關</string>
+    <string name="missile_summaryon">開</string>
+    <string name="depth_pref">只能射一發水雷</string>
+    <string name="depth_summaryoff">關</string>
+    <string name="depth_summaryon">開</string>
+    <string name="plane_numbers_pref">飛機數量</string>
+    <string name="plane_numbers_summary">想要多少飛機在螢幕上?</string>
+    <string name="sub_numbers_pref">潛艇數量</string>
+    <string name="sub_numbers_summary">想要多少淺艇在螢幕上?</string>
+    <string name="sub_moving_pref">潛艇移動速度</string>
+    <string name="sub_moving_summary">設定潛艇的速度?</string>
+    <string name="plane_moving_pref">飛機移動速度</string>
+    <string name="plane_moving_summary">設定飛機的速度?</string>
+
+    <string name="information_title">資訊</string>
+    <string name="information_message">這是顯示資訊的視窗</string>
+    <string name="information_ok">關閉</string>
+
+    <string name="game_congratulations">恭喜破紀錄, 想再玩一次嗎?</string>
+    <string name="game_again">可惜沒破紀錄, 想再玩一次嗎? (最高紀錄: </string>
+    <string name="game_title">遊戲結束</string>
+    <string name="game_yes">是</string>
+    <string name="game_no">否</string>
+
+    <string name="game_score">分數:</string>
+    <string name="game_time">時間:</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
