@@ -421,7 +421,6 @@ public class GameView extends View implements TickListener {
     public void resume(){
         if(tim != null){
             tim.resume();
-            // test
         }
 
     }
